@@ -19,7 +19,7 @@
                 }
             }
             Console.WriteLine(" En total de multiplos de 3 hay " + vcuenta);
-            
+            //comentario random
         }
             
     }
