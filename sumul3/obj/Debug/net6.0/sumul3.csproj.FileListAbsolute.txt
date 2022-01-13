@@ -1,0 +1,15 @@
+C:\proyecto\sumul3\bin\Debug\net6.0\sumul3.exe
+C:\proyecto\sumul3\bin\Debug\net6.0\sumul3.deps.json
+C:\proyecto\sumul3\bin\Debug\net6.0\sumul3.runtimeconfig.json
+C:\proyecto\sumul3\bin\Debug\net6.0\sumul3.dll
+C:\proyecto\sumul3\bin\Debug\net6.0\ref\sumul3.dll
+C:\proyecto\sumul3\bin\Debug\net6.0\sumul3.pdb
+C:\proyecto\sumul3\obj\Debug\net6.0\sumul3.csproj.AssemblyReference.cache
+C:\proyecto\sumul3\obj\Debug\net6.0\sumul3.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyecto\sumul3\obj\Debug\net6.0\sumul3.AssemblyInfoInputs.cache
+C:\proyecto\sumul3\obj\Debug\net6.0\sumul3.AssemblyInfo.cs
+C:\proyecto\sumul3\obj\Debug\net6.0\sumul3.csproj.CoreCompileInputs.cache
+C:\proyecto\sumul3\obj\Debug\net6.0\sumul3.dll
+C:\proyecto\sumul3\obj\Debug\net6.0\ref\sumul3.dll
+C:\proyecto\sumul3\obj\Debug\net6.0\sumul3.pdb
+C:\proyecto\sumul3\obj\Debug\net6.0\sumul3.genruntimeconfig.cache

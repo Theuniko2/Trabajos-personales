@@ -1,0 +1,15 @@
+C:\proyecto\ejerciciosrepetitivos2\bin\Debug\net6.0\ejerciciosrepetitivos2.exe
+C:\proyecto\ejerciciosrepetitivos2\bin\Debug\net6.0\ejerciciosrepetitivos2.deps.json
+C:\proyecto\ejerciciosrepetitivos2\bin\Debug\net6.0\ejerciciosrepetitivos2.runtimeconfig.json
+C:\proyecto\ejerciciosrepetitivos2\bin\Debug\net6.0\ejerciciosrepetitivos2.dll
+C:\proyecto\ejerciciosrepetitivos2\bin\Debug\net6.0\ref\ejerciciosrepetitivos2.dll
+C:\proyecto\ejerciciosrepetitivos2\bin\Debug\net6.0\ejerciciosrepetitivos2.pdb
+C:\proyecto\ejerciciosrepetitivos2\obj\Debug\net6.0\ejerciciosrepetitivos2.csproj.AssemblyReference.cache
+C:\proyecto\ejerciciosrepetitivos2\obj\Debug\net6.0\ejerciciosrepetitivos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyecto\ejerciciosrepetitivos2\obj\Debug\net6.0\ejerciciosrepetitivos2.AssemblyInfoInputs.cache
+C:\proyecto\ejerciciosrepetitivos2\obj\Debug\net6.0\ejerciciosrepetitivos2.AssemblyInfo.cs
+C:\proyecto\ejerciciosrepetitivos2\obj\Debug\net6.0\ejerciciosrepetitivos2.csproj.CoreCompileInputs.cache
+C:\proyecto\ejerciciosrepetitivos2\obj\Debug\net6.0\ejerciciosrepetitivos2.dll
+C:\proyecto\ejerciciosrepetitivos2\obj\Debug\net6.0\ref\ejerciciosrepetitivos2.dll
+C:\proyecto\ejerciciosrepetitivos2\obj\Debug\net6.0\ejerciciosrepetitivos2.pdb
+C:\proyecto\ejerciciosrepetitivos2\obj\Debug\net6.0\ejerciciosrepetitivos2.genruntimeconfig.cache

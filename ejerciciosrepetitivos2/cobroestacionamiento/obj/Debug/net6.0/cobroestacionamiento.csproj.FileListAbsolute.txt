@@ -1,0 +1,15 @@
+C:\proyecto\ejerciciosrepetitivos2\cobroestacionamiento\bin\Debug\net6.0\cobroestacionamiento.exe
+C:\proyecto\ejerciciosrepetitivos2\cobroestacionamiento\bin\Debug\net6.0\cobroestacionamiento.deps.json
+C:\proyecto\ejerciciosrepetitivos2\cobroestacionamiento\bin\Debug\net6.0\cobroestacionamiento.runtimeconfig.json
+C:\proyecto\ejerciciosrepetitivos2\cobroestacionamiento\bin\Debug\net6.0\cobroestacionamiento.dll
+C:\proyecto\ejerciciosrepetitivos2\cobroestacionamiento\bin\Debug\net6.0\ref\cobroestacionamiento.dll
+C:\proyecto\ejerciciosrepetitivos2\cobroestacionamiento\bin\Debug\net6.0\cobroestacionamiento.pdb
+C:\proyecto\ejerciciosrepetitivos2\cobroestacionamiento\obj\Debug\net6.0\cobroestacionamiento.csproj.AssemblyReference.cache
+C:\proyecto\ejerciciosrepetitivos2\cobroestacionamiento\obj\Debug\net6.0\cobroestacionamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyecto\ejerciciosrepetitivos2\cobroestacionamiento\obj\Debug\net6.0\cobroestacionamiento.AssemblyInfoInputs.cache
+C:\proyecto\ejerciciosrepetitivos2\cobroestacionamiento\obj\Debug\net6.0\cobroestacionamiento.AssemblyInfo.cs
+C:\proyecto\ejerciciosrepetitivos2\cobroestacionamiento\obj\Debug\net6.0\cobroestacionamiento.csproj.CoreCompileInputs.cache
+C:\proyecto\ejerciciosrepetitivos2\cobroestacionamiento\obj\Debug\net6.0\cobroestacionamiento.dll
+C:\proyecto\ejerciciosrepetitivos2\cobroestacionamiento\obj\Debug\net6.0\ref\cobroestacionamiento.dll
+C:\proyecto\ejerciciosrepetitivos2\cobroestacionamiento\obj\Debug\net6.0\cobroestacionamiento.pdb
+C:\proyecto\ejerciciosrepetitivos2\cobroestacionamiento\obj\Debug\net6.0\cobroestacionamiento.genruntimeconfig.cache

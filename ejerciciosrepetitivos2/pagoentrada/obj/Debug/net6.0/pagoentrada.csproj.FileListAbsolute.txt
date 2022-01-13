@@ -1,0 +1,15 @@
+C:\proyecto\ejerciciosrepetitivos2\pagoentrada\obj\Debug\net6.0\pagoentrada.csproj.AssemblyReference.cache
+C:\proyecto\ejerciciosrepetitivos2\pagoentrada\obj\Debug\net6.0\pagoentrada.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyecto\ejerciciosrepetitivos2\pagoentrada\obj\Debug\net6.0\pagoentrada.AssemblyInfoInputs.cache
+C:\proyecto\ejerciciosrepetitivos2\pagoentrada\obj\Debug\net6.0\pagoentrada.AssemblyInfo.cs
+C:\proyecto\ejerciciosrepetitivos2\pagoentrada\obj\Debug\net6.0\pagoentrada.csproj.CoreCompileInputs.cache
+C:\proyecto\ejerciciosrepetitivos2\pagoentrada\bin\Debug\net6.0\pagoentrada.exe
+C:\proyecto\ejerciciosrepetitivos2\pagoentrada\bin\Debug\net6.0\pagoentrada.deps.json
+C:\proyecto\ejerciciosrepetitivos2\pagoentrada\bin\Debug\net6.0\pagoentrada.runtimeconfig.json
+C:\proyecto\ejerciciosrepetitivos2\pagoentrada\bin\Debug\net6.0\pagoentrada.dll
+C:\proyecto\ejerciciosrepetitivos2\pagoentrada\bin\Debug\net6.0\ref\pagoentrada.dll
+C:\proyecto\ejerciciosrepetitivos2\pagoentrada\bin\Debug\net6.0\pagoentrada.pdb
+C:\proyecto\ejerciciosrepetitivos2\pagoentrada\obj\Debug\net6.0\pagoentrada.dll
+C:\proyecto\ejerciciosrepetitivos2\pagoentrada\obj\Debug\net6.0\ref\pagoentrada.dll
+C:\proyecto\ejerciciosrepetitivos2\pagoentrada\obj\Debug\net6.0\pagoentrada.pdb
+C:\proyecto\ejerciciosrepetitivos2\pagoentrada\obj\Debug\net6.0\pagoentrada.genruntimeconfig.cache

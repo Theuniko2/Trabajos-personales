@@ -1,0 +1,15 @@
+C:\proyecto\ejerciciosrepetitivos2\Nomina\bin\Debug\net6.0\Nomina.exe
+C:\proyecto\ejerciciosrepetitivos2\Nomina\bin\Debug\net6.0\Nomina.deps.json
+C:\proyecto\ejerciciosrepetitivos2\Nomina\bin\Debug\net6.0\Nomina.runtimeconfig.json
+C:\proyecto\ejerciciosrepetitivos2\Nomina\bin\Debug\net6.0\Nomina.dll
+C:\proyecto\ejerciciosrepetitivos2\Nomina\bin\Debug\net6.0\ref\Nomina.dll
+C:\proyecto\ejerciciosrepetitivos2\Nomina\bin\Debug\net6.0\Nomina.pdb
+C:\proyecto\ejerciciosrepetitivos2\Nomina\obj\Debug\net6.0\Nomina.csproj.AssemblyReference.cache
+C:\proyecto\ejerciciosrepetitivos2\Nomina\obj\Debug\net6.0\Nomina.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyecto\ejerciciosrepetitivos2\Nomina\obj\Debug\net6.0\Nomina.AssemblyInfoInputs.cache
+C:\proyecto\ejerciciosrepetitivos2\Nomina\obj\Debug\net6.0\Nomina.AssemblyInfo.cs
+C:\proyecto\ejerciciosrepetitivos2\Nomina\obj\Debug\net6.0\Nomina.csproj.CoreCompileInputs.cache
+C:\proyecto\ejerciciosrepetitivos2\Nomina\obj\Debug\net6.0\Nomina.dll
+C:\proyecto\ejerciciosrepetitivos2\Nomina\obj\Debug\net6.0\ref\Nomina.dll
+C:\proyecto\ejerciciosrepetitivos2\Nomina\obj\Debug\net6.0\Nomina.pdb
+C:\proyecto\ejerciciosrepetitivos2\Nomina\obj\Debug\net6.0\Nomina.genruntimeconfig.cache

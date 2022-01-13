@@ -1,0 +1,15 @@
+C:\proyecto\impares\bin\Debug\net6.0\impares.exe
+C:\proyecto\impares\bin\Debug\net6.0\impares.deps.json
+C:\proyecto\impares\bin\Debug\net6.0\impares.runtimeconfig.json
+C:\proyecto\impares\bin\Debug\net6.0\impares.dll
+C:\proyecto\impares\bin\Debug\net6.0\ref\impares.dll
+C:\proyecto\impares\bin\Debug\net6.0\impares.pdb
+C:\proyecto\impares\obj\Debug\net6.0\impares.csproj.AssemblyReference.cache
+C:\proyecto\impares\obj\Debug\net6.0\impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyecto\impares\obj\Debug\net6.0\impares.AssemblyInfoInputs.cache
+C:\proyecto\impares\obj\Debug\net6.0\impares.AssemblyInfo.cs
+C:\proyecto\impares\obj\Debug\net6.0\impares.csproj.CoreCompileInputs.cache
+C:\proyecto\impares\obj\Debug\net6.0\impares.dll
+C:\proyecto\impares\obj\Debug\net6.0\ref\impares.dll
+C:\proyecto\impares\obj\Debug\net6.0\impares.pdb
+C:\proyecto\impares\obj\Debug\net6.0\impares.genruntimeconfig.cache

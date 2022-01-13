@@ -1,0 +1,15 @@
+C:\proyecto\multiplos32\bin\Debug\net6.0\multiplos32.exe
+C:\proyecto\multiplos32\bin\Debug\net6.0\multiplos32.deps.json
+C:\proyecto\multiplos32\bin\Debug\net6.0\multiplos32.runtimeconfig.json
+C:\proyecto\multiplos32\bin\Debug\net6.0\multiplos32.dll
+C:\proyecto\multiplos32\bin\Debug\net6.0\ref\multiplos32.dll
+C:\proyecto\multiplos32\bin\Debug\net6.0\multiplos32.pdb
+C:\proyecto\multiplos32\obj\Debug\net6.0\multiplos32.csproj.AssemblyReference.cache
+C:\proyecto\multiplos32\obj\Debug\net6.0\multiplos32.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyecto\multiplos32\obj\Debug\net6.0\multiplos32.AssemblyInfoInputs.cache
+C:\proyecto\multiplos32\obj\Debug\net6.0\multiplos32.AssemblyInfo.cs
+C:\proyecto\multiplos32\obj\Debug\net6.0\multiplos32.csproj.CoreCompileInputs.cache
+C:\proyecto\multiplos32\obj\Debug\net6.0\multiplos32.dll
+C:\proyecto\multiplos32\obj\Debug\net6.0\ref\multiplos32.dll
+C:\proyecto\multiplos32\obj\Debug\net6.0\multiplos32.pdb
+C:\proyecto\multiplos32\obj\Debug\net6.0\multiplos32.genruntimeconfig.cache

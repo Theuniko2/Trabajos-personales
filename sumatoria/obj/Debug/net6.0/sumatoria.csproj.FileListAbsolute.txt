@@ -1,0 +1,15 @@
+C:\proyecto\sumatoria\obj\Debug\net6.0\sumatoria.csproj.AssemblyReference.cache
+C:\proyecto\sumatoria\obj\Debug\net6.0\sumatoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyecto\sumatoria\obj\Debug\net6.0\sumatoria.AssemblyInfoInputs.cache
+C:\proyecto\sumatoria\obj\Debug\net6.0\sumatoria.AssemblyInfo.cs
+C:\proyecto\sumatoria\obj\Debug\net6.0\sumatoria.csproj.CoreCompileInputs.cache
+C:\proyecto\sumatoria\bin\Debug\net6.0\sumatoria.exe
+C:\proyecto\sumatoria\bin\Debug\net6.0\sumatoria.deps.json
+C:\proyecto\sumatoria\bin\Debug\net6.0\sumatoria.runtimeconfig.json
+C:\proyecto\sumatoria\bin\Debug\net6.0\sumatoria.dll
+C:\proyecto\sumatoria\bin\Debug\net6.0\ref\sumatoria.dll
+C:\proyecto\sumatoria\bin\Debug\net6.0\sumatoria.pdb
+C:\proyecto\sumatoria\obj\Debug\net6.0\sumatoria.dll
+C:\proyecto\sumatoria\obj\Debug\net6.0\ref\sumatoria.dll
+C:\proyecto\sumatoria\obj\Debug\net6.0\sumatoria.pdb
+C:\proyecto\sumatoria\obj\Debug\net6.0\sumatoria.genruntimeconfig.cache
