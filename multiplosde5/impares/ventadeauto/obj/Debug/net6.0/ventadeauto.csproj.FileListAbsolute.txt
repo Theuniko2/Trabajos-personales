@@ -1,0 +1,15 @@
+C:\proyecto\Trabajos-personales\multiplosde5\impares\ventadeauto\bin\Debug\net6.0\ventadeauto.exe
+C:\proyecto\Trabajos-personales\multiplosde5\impares\ventadeauto\bin\Debug\net6.0\ventadeauto.deps.json
+C:\proyecto\Trabajos-personales\multiplosde5\impares\ventadeauto\bin\Debug\net6.0\ventadeauto.runtimeconfig.json
+C:\proyecto\Trabajos-personales\multiplosde5\impares\ventadeauto\bin\Debug\net6.0\ventadeauto.dll
+C:\proyecto\Trabajos-personales\multiplosde5\impares\ventadeauto\bin\Debug\net6.0\ref\ventadeauto.dll
+C:\proyecto\Trabajos-personales\multiplosde5\impares\ventadeauto\bin\Debug\net6.0\ventadeauto.pdb
+C:\proyecto\Trabajos-personales\multiplosde5\impares\ventadeauto\obj\Debug\net6.0\ventadeauto.csproj.AssemblyReference.cache
+C:\proyecto\Trabajos-personales\multiplosde5\impares\ventadeauto\obj\Debug\net6.0\ventadeauto.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyecto\Trabajos-personales\multiplosde5\impares\ventadeauto\obj\Debug\net6.0\ventadeauto.AssemblyInfoInputs.cache
+C:\proyecto\Trabajos-personales\multiplosde5\impares\ventadeauto\obj\Debug\net6.0\ventadeauto.AssemblyInfo.cs
+C:\proyecto\Trabajos-personales\multiplosde5\impares\ventadeauto\obj\Debug\net6.0\ventadeauto.csproj.CoreCompileInputs.cache
+C:\proyecto\Trabajos-personales\multiplosde5\impares\ventadeauto\obj\Debug\net6.0\ventadeauto.dll
+C:\proyecto\Trabajos-personales\multiplosde5\impares\ventadeauto\obj\Debug\net6.0\ref\ventadeauto.dll
+C:\proyecto\Trabajos-personales\multiplosde5\impares\ventadeauto\obj\Debug\net6.0\ventadeauto.pdb
+C:\proyecto\Trabajos-personales\multiplosde5\impares\ventadeauto\obj\Debug\net6.0\ventadeauto.genruntimeconfig.cache

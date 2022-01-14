@@ -1,0 +1,15 @@
+C:\proyecto\Trabajos-personales\multiplosde5\impares\obj\Debug\net6.0\impares.csproj.AssemblyReference.cache
+C:\proyecto\Trabajos-personales\multiplosde5\impares\obj\Debug\net6.0\impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyecto\Trabajos-personales\multiplosde5\impares\obj\Debug\net6.0\impares.AssemblyInfoInputs.cache
+C:\proyecto\Trabajos-personales\multiplosde5\impares\obj\Debug\net6.0\impares.AssemblyInfo.cs
+C:\proyecto\Trabajos-personales\multiplosde5\impares\obj\Debug\net6.0\impares.csproj.CoreCompileInputs.cache
+C:\proyecto\Trabajos-personales\multiplosde5\impares\bin\Debug\net6.0\impares.exe
+C:\proyecto\Trabajos-personales\multiplosde5\impares\bin\Debug\net6.0\impares.deps.json
+C:\proyecto\Trabajos-personales\multiplosde5\impares\bin\Debug\net6.0\impares.runtimeconfig.json
+C:\proyecto\Trabajos-personales\multiplosde5\impares\bin\Debug\net6.0\impares.dll
+C:\proyecto\Trabajos-personales\multiplosde5\impares\bin\Debug\net6.0\ref\impares.dll
+C:\proyecto\Trabajos-personales\multiplosde5\impares\bin\Debug\net6.0\impares.pdb
+C:\proyecto\Trabajos-personales\multiplosde5\impares\obj\Debug\net6.0\impares.dll
+C:\proyecto\Trabajos-personales\multiplosde5\impares\obj\Debug\net6.0\ref\impares.dll
+C:\proyecto\Trabajos-personales\multiplosde5\impares\obj\Debug\net6.0\impares.pdb
+C:\proyecto\Trabajos-personales\multiplosde5\impares\obj\Debug\net6.0\impares.genruntimeconfig.cache

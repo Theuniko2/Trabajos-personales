@@ -1,0 +1,15 @@
+C:\proyecto\Trabajos-personales\multiplosde5\bin\Debug\net6.0\multiplosde5.exe
+C:\proyecto\Trabajos-personales\multiplosde5\bin\Debug\net6.0\multiplosde5.deps.json
+C:\proyecto\Trabajos-personales\multiplosde5\bin\Debug\net6.0\multiplosde5.runtimeconfig.json
+C:\proyecto\Trabajos-personales\multiplosde5\bin\Debug\net6.0\multiplosde5.dll
+C:\proyecto\Trabajos-personales\multiplosde5\bin\Debug\net6.0\ref\multiplosde5.dll
+C:\proyecto\Trabajos-personales\multiplosde5\bin\Debug\net6.0\multiplosde5.pdb
+C:\proyecto\Trabajos-personales\multiplosde5\obj\Debug\net6.0\multiplosde5.csproj.AssemblyReference.cache
+C:\proyecto\Trabajos-personales\multiplosde5\obj\Debug\net6.0\multiplosde5.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyecto\Trabajos-personales\multiplosde5\obj\Debug\net6.0\multiplosde5.AssemblyInfoInputs.cache
+C:\proyecto\Trabajos-personales\multiplosde5\obj\Debug\net6.0\multiplosde5.AssemblyInfo.cs
+C:\proyecto\Trabajos-personales\multiplosde5\obj\Debug\net6.0\multiplosde5.csproj.CoreCompileInputs.cache
+C:\proyecto\Trabajos-personales\multiplosde5\obj\Debug\net6.0\multiplosde5.dll
+C:\proyecto\Trabajos-personales\multiplosde5\obj\Debug\net6.0\ref\multiplosde5.dll
+C:\proyecto\Trabajos-personales\multiplosde5\obj\Debug\net6.0\multiplosde5.pdb
+C:\proyecto\Trabajos-personales\multiplosde5\obj\Debug\net6.0\multiplosde5.genruntimeconfig.cache
